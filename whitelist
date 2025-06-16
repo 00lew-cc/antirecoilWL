@@ -1,3 +1,4 @@
-51F0-88A5
-3C4C-4429
-E43B-9930
+# HWID,ExpirationDate
+E43B-9930, never # owner
+51F0-88A5, never # co-owner
+3C4C-4429, 2025-06-18 # ace
